@@ -1,0 +1,5 @@
+body{
+    direction: $direction;
+    text-align: $start-direction;
+    padding-#{$end-direction}: 10px;
+  }

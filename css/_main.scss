@@ -445,7 +445,9 @@ html[dir='rtl']{
     width: 300px;
   }
   .qr-code{
-    display: none
+    top: 100px !important;
+    width: 90px !important;
+    height: 80px !important;
   }
   .page-header.right .title{
     text-align: right;
@@ -456,6 +458,10 @@ html[dir='rtl']{
   .title-block h1{
     font-size: 14px;
   }
+  .todo-list .container {
+    padding: 17px !important;
+    width: 300px !important;
+}
 }
 @media (max-width: 767.98px) {
     html[dir='rtl']{

@@ -1,9 +1,9 @@
-@import "config-directions/direction-rtl";
-@import "_main.scss";
+// @import "config-directions/direction-rtl";
+// @import "_main.scss";
 
-html[dir='rtl'] {
-    body{
-        direction: $direction;
-        text-align: $start-direction;
-      }
-}
+// html[dir='rtl'] {
+//     body{
+//         direction: $direction;
+//         text-align: $start-direction;
+//       }
+// }

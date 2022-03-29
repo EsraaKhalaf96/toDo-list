@@ -1,11 +1,1 @@
-/*** RTL websites ***/
-body {
-  direction: rtl;
-  text-align: right;
-  padding-left: 10px;
-}
-
-html[dir=rtl] body {
-  direction: rtl;
-  text-align: right;
-}/*# sourceMappingURL=main-rtl.css.map */
+/*# sourceMappingURL=main-rtl.css.map */
